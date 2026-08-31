@@ -1,0 +1,10 @@
+Channel,Point,Measured(C),Corrected(C),ExpandedUnc_U_k2(C),Extrapolated
+Left,Onset,36.4,36.4,0.3,no
+Left,Single,67.3,67.3,0.3,no
+Left,Clear,68.3,68.3,0.3,no
+Center,Onset,48.0,48.0,0.3,no
+Center,Single,96.4,96.4,0.3,no
+Center,Clear,97.7,97.7,0.3,no
+Right,Onset,71.8,71.8,0.3,no
+Right,Single,134.3,134.3,0.5,no
+Right,Clear,134.7,134.7,0.5,no
